@@ -5,8 +5,8 @@ Numbers should preserve their sign; i.e. a negative number should still be negat
 
 Examples
 
- 123 ->  321
+ 123  ->  321
  <br>
--456 -> -654
+-456  -> -654
 <br>
-1000 ->    1
+1000  ->    1
